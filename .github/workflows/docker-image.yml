@@ -1,3 +1,4 @@
+#=== Github action Sample - Build and push image to docker hub.
 name: Docker Image CI
 
 on:
